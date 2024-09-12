@@ -28,9 +28,10 @@ url: "https://1510janu.github.io" # the base hostname & protocol for your site, 
 github_username:  1510janu
 
 # Build settings
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 # Exclude from processing.
 # The following items will not be processed, by default.
