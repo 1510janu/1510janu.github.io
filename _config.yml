@@ -4,7 +4,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
 
 # Site settings
-title: 
+title: My Portfolio
 title_separator: "|"
 subtite: "My Portfolio"
 email: janugeethakp@gmail.com
@@ -50,7 +50,7 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
-incremental: false
+incremental: true
 
 # Include
 include:
