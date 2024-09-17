@@ -4,7 +4,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
 
 # Site settings
-title: My Portfolio
+title: 
 title_separator: "|"
 subtite: "My Portfolio"
 email: janugeethakp@gmail.com
@@ -22,7 +22,7 @@ locale: "en-US"
 # Author Profile
 author:
   name             : "Janu Geethakumari"
-  avatar           : "assets/images/"
+  avatar           : "assets/images/avatar.jpg"
   bio              : "Technical Writer"
   location         : "Ontario, Canada"
   email            : janugeethakp@gmail.com
@@ -50,7 +50,7 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
-incremental: true
+incremental: false
 
 # Include
 include:
