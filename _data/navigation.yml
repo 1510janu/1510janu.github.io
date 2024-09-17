@@ -1,12 +1,12 @@
 main: 
   - title: "About"
-  - url: /about/
+    url: /about/
   - title: "Contact"
-  - url: /contact/
+    url: /contact/
   - title: "Portfolio"
-  - url: /portfolio/
+    url: /portfolio/
   - title: "GitHub"
-  - url: "https://github.com/1510janu"
+    url: "https://github.com/1510janu"
 
 # Sidebar -  displays under Author Profile
 my_sidebar: 

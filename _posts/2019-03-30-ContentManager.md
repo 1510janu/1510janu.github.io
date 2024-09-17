@@ -1,6 +1,6 @@
 ---
 title: Content Manager CMS
-date: 2019-03-30 22:40:25 +/-EST
+date: 2019-03-30
 categories: 
     - Article
     - Documentation
