@@ -6,6 +6,8 @@ categories:
     - Documentation
 tags:
     - CMS
+toc: true
+toc_sticky: true
 ---
 
 Content Management System (CMS) is an application tool which helps to organise and publish web contents. The contents in CMS are stored in a database and are displayed to the users based on the search results or classification. The contents can be organised and displayed based on templates using a CMS. Currently, cloud-based CMS are available where the contents are stored in any of the cloud platforms so the availability of the content can be widened. CMS helps with the creation, storage, validation and publishing of the contents.
