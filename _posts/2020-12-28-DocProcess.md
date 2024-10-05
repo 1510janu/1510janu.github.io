@@ -1,6 +1,6 @@
 ---
 title: Documentation Process
-date: 2020-12-28 14:15:05 +/-EST
+date: 
 categories: 
     - Article
 tags: 

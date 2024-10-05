@@ -1,6 +1,6 @@
 ---
 title: Other Articles
-date: 2019-04-15 
+date: 
 categories: 
     - Articles
     - Documentation

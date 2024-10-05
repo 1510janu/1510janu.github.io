@@ -1,0 +1,30 @@
+---
+title: ISO 20022 Compliance
+date: 
+categories: 
+    - Article
+tags: 
+    - fintech
+---
+
+## What is ISO 20022 and how it impacts SWIFT?
+ISO 20022 is a global standard for the exchange of electronic messages between financial institutions. The new standard has been adopted by many of the financial industry’s major payment and messaging platforms such as SWIFT, SEPA, Fedwire, CHIPS and T2. The standard calls for MX XML-based messages to replace the legacy MT messages.
+SWIFT will cease to support the legacy MT messages in categories 1, 2 and 9 after November 2025, and only MX messages will be supported from that time onwards. During the coexistence period, from March 2023 until November 2025, both MT and MX payments will be supported.
+
+### Benefits of ISO 20022
+The new messaging standard will provide a number of benefits to financial markets such as:
+* Improved data quality and consistency
+* Increased automation with rich payment data, reducing the need for manual intervention
+* Cost reductions from enhanced efficiency
+* Strengthened compliance by streamlining regulatory reporting, anti-money laundering and sanction checks
+* Better client experience with faster, more accurate payments.
+
+### Challenges posted by the adoption of ISO 20022
+While ISO 20022 will bring about a number of improvements in the payments space,financial institutions must contend with a number of challenges in order to
+successfully adopt the new standard.
+These challenges include:
+* The introduction of new data fields that will need to be incorporated into a firm’s data management strategy
+* Legacy systems need to be converted to align with the new standard which involves intricate data mapping activities, along with architecture and interface changes
+* Training is required to upskill existing resources which demands subject matter expertise
+* Resources and knowledge are required to plan, manage and execute migration activities
+* Operating models will need to be adapted to support the coexistence period during which both MT and MX messages will be in use
